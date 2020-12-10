@@ -1,0 +1,46 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "author": "",
+  "license": "Apache 2.0",
+  "homepage": "",
+  "dependencies": {
+    "3id-connect": "^0.1.0",
+    "@ceramicnetwork/key-did-resolver": "^0.2.0",
+    "@textile/powergate-client": "^1.0.0",
+    "bn.js": "^5.1.2",
+    "body-parser": "^1.18.3",
+    "dag-jose": "^0.3.0",
+    "dids": "^0.8.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "fs": "^0.0.1-security",
+    "ipfs": "^0.52.1",
+    "key-did-provider-ed25519": "^0.1.2",
+    "multiformats": "^3.0.3",
+    "path": "^0.12.7",
+    "png-crop": "^0.0.2",
+    "pug": "^2.0.4",
+    "sprintf-js": "^1.1.2"
+  },
+  "standard": {
+    "globals": [
+      "it",
+      "assert",
+      "beforeEach",
+      "afterEach",
+      "describe",
+      "contract",
+      "artifacts"
+    ]
+  }
+}

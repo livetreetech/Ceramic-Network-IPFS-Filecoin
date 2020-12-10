@@ -1,0 +1,4 @@
+<div>
+    <app-vjs-player options='{"did": "0",  "muted": false, "sources": [{ "src": "http://demo.unified-streaming.com/video/tears-of-steel/tears-of-steel.ism/.m3u8", "type": "application/x-mpegURL" }],
+    "vast": "https://fairweb.livetree.com/filecoin/vast_sample.xml"}'></app-vjs-player>
+</div>
